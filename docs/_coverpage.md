@@ -7,5 +7,5 @@
 
 <font color=#8FBC8F size=3.5 face="">一个记录的地方</font>
 
-[GitHub](https://github.com/CCZTAO)
-[BEGIN  ](/README.md)
+<!-- [GitHub](https://github.com/CCZTAO) -->
+[Begin](/README.md)
