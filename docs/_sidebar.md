@@ -10,17 +10,13 @@
 * **其它**
 * >[技点](生活/技点.md)
 * >[生活](生活/生活.md)
-
-  &emsp;
-  &emsp;
-  &emsp;
+* >[项目](生活/项目.md)
 
 
-  
 
 * <font color=#CCCCCC size=1.2 face="">**被你发现啦！**</font>
 
-  &emsp; &emsp; &emsp;<img src="素材/wechat number.jpg" width="166" height="166"/>
+  &emsp; &emsp; &emsp;<img src="素材/wechat number.jpg" width="126" height="126"/>
 
 
 
